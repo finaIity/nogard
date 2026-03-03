@@ -10,4 +10,5 @@ The recursive block [dragoncurve] uses two manually recursive functions (control
 
 with the base case X(0) = Y(0) = ∅. The curve is initiated with one forward step followed by X(n).
 Each level or recursion doubles the number of segments, which produces the self-similar fractal structure directly from the call stack rather than an explicit sequence.
+
 Nogard opens its own graphic interface, you can type in the wanted iterations in the command line.
